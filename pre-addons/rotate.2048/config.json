@@ -1,0 +1,13 @@
+{
+    "author": "mark-sss",
+    "imgs": ["../classic.2048/imgs/"],
+    "code": ["./index.js"],
+
+    "active": true,
+    "turnableOn": true,
+
+    "priority": 0,
+    "id": "rotate.2048",
+    "use": ["lib.mod.2048"],
+    "name": "2048 Rotate – 2048 Game designed by website author"
+}

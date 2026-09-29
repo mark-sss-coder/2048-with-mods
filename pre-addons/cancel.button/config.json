@@ -1,0 +1,8 @@
+{
+    "author": "mark-sss",
+    "code": ["./index.js"],
+    "priority": 10e500,
+    "id": "cancel.button",
+    "active": false,
+    "turnableOn": true
+}

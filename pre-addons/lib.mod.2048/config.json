@@ -1,0 +1,12 @@
+{
+    "author": "mark-sss",
+    "imgs": ["./imgs/"],
+    "code": ["./index.js"],
+
+    "active": true,
+    "turnableOn": true,
+
+    "priority": -1,
+    "id": "lib.mod.2048",
+    "name": "Library used by some mods, makes the base for 2048 mod.\n\nPreset: classic 2048"
+}

@@ -1,0 +1,8 @@
+{
+    "include": [
+        "dev/**/*.js",
+        "pre-addons/*/**/*.js",
+        ".vscode/declare/**/*.d.ts",
+        "pre-addons/lib.mod.2048/index.js"
+    ]
+}
